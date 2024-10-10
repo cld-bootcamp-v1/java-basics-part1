@@ -1,0 +1,35 @@
+DATA TYPES
+-----------
+Primitive
+int, long, double, short, flowt, byte, char, boolean
+Reference
+String, classes, enums, Lists, Maps
+
+
+OPERATORS
+----------
+numerical +-*/%
+logical && ||
+assignment == != > <
+unary ++ --
+
+
+STRING MANIPULATION
+--------------
+lower/uppercase
+length
+equals
+chatAt, substrings
+indexOf
+replace
+trim
+concat
+String builder
+
+
+CONDITIONAL STATEMENT
+--------------
+if-else
+nested if-else
+switch
+ternary operator
