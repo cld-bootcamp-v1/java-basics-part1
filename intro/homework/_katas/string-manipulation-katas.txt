@@ -1,0 +1,33 @@
+1.Count Vowels in a String
+Write a program that takes a string as input and counts the
+number of vowels (a, e, i, o, u).
+
+2.Uppercase to Lowercase Conversion
+Write a program that converts all characters in a given
+string to lowercase and then to uppercase.
+
+3.Palindrome Checker
+Write a program that checks if a given string is a palindrome
+(reads the same forwards and backwards).
+
+4.Replace Spaces with Underscores
+Write a program that replaces all spaces in a string with underscores (_).
+
+5.Character Count
+Write a program that takes a string and a character as input, and counts
+how many times that character appears in the string.
+
+6.Extract Substring
+Write a program that extracts a substring from a given string. Let the user
+input the start and end index. Lets assume the string xxxxxxxxxxxxabcxxxxxxxx
+
+7.Find Index of First Occurrence
+Write a program that takes a string and a character as input, and finds the
+index of the first occurrence of that character using indexOf.
+
+8.Concatenate Two Strings
+Write a program that concatenates two strings and prints the result.
+
+9.StringBuilder Practice
+Write a program that uses StringBuilder to append, insert,
+delete, and reverse a string.

@@ -1,7 +1,9 @@
 DATA TYPES
 -----------
 Primitive
-int, long, double, short, flowt, byte, char, boolean
+int, long, double, boolean
+LESS: byte, char
+EXCLUDE: short, float
 Reference
 String, classes, enums, Lists, Maps
 
@@ -27,6 +29,34 @@ concat
 String builder
 
 
+CONDITIONAL STATEMENT
+--------------
+if-else
+nested if-else
+switch
+ternary operator
+
+Datatypes
+int, long, double, boolean
+OPERATORS
+----------
+numerical +-*/%
+logical && ||
+assignment == != > <
+unary ++ --
+Reference
+String, enums
+STRING MANIPULATION
+--------------
+lower/uppercase
+length
+equals
+chatAt, substrings
+indexOf
+replace
+trim
+concat
+String builder
 CONDITIONAL STATEMENT
 --------------
 if-else

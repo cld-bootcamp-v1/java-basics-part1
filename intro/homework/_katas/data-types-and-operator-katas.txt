@@ -1,0 +1,32 @@
+1.Sum of Two Integers
+Write a program that takes two integers as input and prints their sum.
+---------------------------------------------------------------------------------------------
+2.Area of a Circle ~
+Calculate the area of a circle given the radius (use double for the radius and result).
+Formula: area = π * radius^2.
+---------------------------------------------------------------------------------------------
+3.Check Even or Odd
+Write a program that takes an integer input and prints whether it is even or
+odd using the modulus operator (%).
+---------------------------------------------------------------------------------------------
+4.Area of a Rectangle Calculator
+Problem: Given the length and width of a rectangle, calculate and print the area.
+Formula:
+Area = {length} * {width}
+---------------------------------------------------------------------------------------------
+5.Temperature Converter
+Write a program to convert temperature from Celsius to Fahrenheit.
+Formula: F = (C * 9/5) + 32.
+---------------------------------------------------------------------------------------------
+6.Logical AND/OR
+Write a program that checks if a person is eligible to vote in UK.
+To vote he must be age >= 18 and they are a citizen of UK or he must be a resident of UK for at least 6 years.
+---------------------------------------------------------------------------------------------
+7.Increment and Decrement
+Write a program that demonstrates the difference between that
+increments a number if its less than 5 and decrements it if its bigger than 5
+---------------------------------------------------------------------------------------------
+8.Compare Two Numbers
+Write a program that takes two numbers as input and prints which
+number is larger or if they are equal, using relational operators (<, >, ==).
+---------------------------------------------------------------------------------------------
