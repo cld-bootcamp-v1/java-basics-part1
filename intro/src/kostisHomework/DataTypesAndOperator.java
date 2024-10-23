@@ -1,3 +1,5 @@
+package kostisHomework;
+
 public class DataTypesAndOperator {
     public static void main(String[] args) {
 
